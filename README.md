@@ -15,14 +15,6 @@ Este proyecto es una plataforma de búsqueda laboral local, desarrollada utiliza
 - **Tailwind CSS:** Framework de diseño de componentes CSS.
 - **Axios:** Cliente HTTP basado en promesas para el navegador y Node.js.
 
-## Configuración del Proyecto
-
-1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias del proyecto utilizando `npm install`.
-3. Configura la URL base del servidor API en el archivo de configuración.
-4. Ejecuta el proyecto utilizando `npm run dev`.
-5. Accede a la aplicación a través de tu navegador web.
-
 ## Escenarios de Uso
 
 ### 1. Creación de Perfil Público de Empleado
@@ -52,5 +44,3 @@ Este proyecto es una plataforma de búsqueda laboral local, desarrollada utiliza
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT License](LICENSE).
-
-Este README proporciona una visión general del proyecto, incluyendo tecnologías utilizadas, configuración y escenarios de uso comunes. Puedes copiar y pegar este contenido en el archivo `README.md` de tu proyecto frontend y personalizarlo según sea necesario.
