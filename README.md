@@ -2,6 +2,11 @@
 
 Este proyecto es una plataforma de búsqueda laboral local, desarrollada utilizando tecnologías como Vue 3, Tailwind CSS y Axios. Permite a los usuarios registrados buscar empleo, publicar ofertas de trabajo y establecer conexiones profesionales dentro de su área local.
 
+## Visualización del Proyecto
+
+El proyecto puede ser visualizado en la siguiente URL: [Job Search Local](https://job-search-local.vercel.app/)
+
+
 ## Características
 
 - **Registro de Usuarios:** Los usuarios pueden registrarse como empleados o empleadores.
