@@ -1,0 +1,21 @@
+{
+  "name": "job-search-location",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite && npx tailwindcss -i ./src/assets/style/main.css -o ./src/assets/style/style.css --watch",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^5.0.12",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.5"
+  }
+}
